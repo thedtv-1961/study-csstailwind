@@ -3,6 +3,7 @@
     "tailwindcss": "^1.8.13"
   },
   "scripts": {
-    "build-hihi": "tailwindcss build src/styles.css -o public/styles.css"
+    "build-hihi": "tailwindcss build src/styles.css -o public/styles.css",
+    "dev": "next"
   }
 }

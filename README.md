@@ -1,1 +1,2 @@
-# study-csstailwind
+- build css: ```npm run build-hihi```
+- run: ```live-server public``` -> install `live-server`
